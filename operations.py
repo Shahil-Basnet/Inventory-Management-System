@@ -46,7 +46,7 @@ def display_info(product_info, mode):
     print("|    ID\t| NAME\t\t\t| BRAND\t\t\t| STOCK\t\t\t| PRICE\t\t| COUNTRY\t|")
     # to draw the ¯¯¯¯¯¯¯¯  lines 
     print("\u00AF"*192)
-    # loop to display the products in a table formattt for cloning again
+    # loop to display the products in a table formatttttttttttttttttt
     try:
         if product_info is None:
             raise ValueError()
