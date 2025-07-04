@@ -1,0 +1,26 @@
+Vitamin C Serum, Garnier, 200, 1000, France
+Skin Cleanser, Cetaphil, 100, 280, Switzerland
+Sunscreen, Aqualogica, 315, 700, India
+Hyaluronic Acid Serum, The Ordinary, 200, 1200, Canada
+Micellar Water, Bioderma, 300, 900, France
+Moisturizing Cream, Neutrogena,200, 650, USA
+Charcoal Face Mask, L'Oreal, 120, 500, France
+Lip Balm, Burt's Bees, 250, 300, USA
+Face Wash, Himalaya, 400, 200, India
+Eye Cream, Kiehl's, 70, 1500, USA
+Hair Mask, Moroccanoil, 110, 1300, Morocco
+Nail Polish, Essie, 500, 400, USA
+Night Cream, Olay, 175, 950, USA
+Sheet Masks, Innisfree, 320, 250, South Korea
+Makeup Remover, Garnier, 210, 350, France
+Toner, Thayers, 140, 800, USA
+Serum, Minimalist, 180, 750, India
+Body Lotion, Nivea, 500, 400, Germany
+Face Scrub, Saint Ives, 230, 450, USA
+Sunscreen Stick, Neutrogena, 95, 600, USA
+Hair Oil, Parachute,467, 150, India
+Mascara, Maybelline, 275, 550, USA
+Lipstick, MAC, 120, 1800, Canada
+Clay Mask, Kiehl's, 85, 1600, USA
+Hand Cream, The Body Shop, 190, 600, UK
+Perfume, Zara, 300, 1200, Spain
