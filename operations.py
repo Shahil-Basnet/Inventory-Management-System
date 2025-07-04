@@ -40,7 +40,7 @@ def display_info(product_info, mode):
     in the format [name, brand, stock, price, country].
     mode (str): A mode to differentiate between buying nd selling.
     """
-    # to draw the ______  lines 
+    # to draw the ______  lines this is for cloning
     print("_"*135)
     # names for each column
     print("|    ID\t| NAME\t\t\t| BRAND\t\t\t| STOCK\t\t\t| PRICE\t\t| COUNTRY\t|")
