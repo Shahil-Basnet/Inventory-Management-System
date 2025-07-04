@@ -1,5 +1,6 @@
 #operations
 import write as fw
+#wazzap beijing
 
 # store the read data in a dictionary with auto incremented id as key and the list of details of products as values
 def details_gen(data_file):
@@ -46,7 +47,7 @@ def display_info(product_info, mode):
     print("|    ID\t| NAME\t\t\t| BRAND\t\t\t| STOCK\t\t\t| PRICE\t\t| COUNTRY\t|")
     # to draw the ¯¯¯¯¯¯¯¯  lines 
     print("\u00AF"*192)
-    # loop to display the products in a table formatttttttttttttttttt
+    # loop to display the products in a table format
     try:
         if product_info is None:
             raise ValueError()
